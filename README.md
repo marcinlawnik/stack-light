@@ -17,6 +17,10 @@ I've decided to print the lenses in transparent PET-G and the base elements in b
 to take full advantage of the RGB. White PET-G would've probably been better for brightness,
 but I had none on hand and black looks better.
 
+2023-11-06 - `FIrst version failed, concentric walls with concentric infill does not play well :<`
+
+
+
 ### Hardware
 
 I've decided to use adressable RGB LEDs and some microntroller depending on what I can find
